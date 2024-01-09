@@ -13,4 +13,4 @@ app.use('/', router);
 
 app.listen(PORT, (req,res) => {
     console.log(`Live status http://localhost:${PORT}`)
-})
+});
